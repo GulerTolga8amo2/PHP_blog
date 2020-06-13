@@ -24,7 +24,7 @@
                     <a class="nav-link text-white" href="#">Make post</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="#">login</a>
+                    <a class="nav-link text-white" href="../login.php">login</a>
                 </li>
             </ul>
         </header>
